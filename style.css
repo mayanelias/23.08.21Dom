@@ -1,0 +1,15 @@
+th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 20%;
+  }
+  td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 20%    
+  }
+#time{
+    font-size: 100px;
+    font-family: fantasy;
+    color:pink;
+}
